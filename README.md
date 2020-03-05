@@ -5,4 +5,5 @@ A generic confessions site. Allows people to post whatever they want anonymously
 #### Tech used
 
 Front-end framework: React.js
+
 Database: Firebase Realtime Database
